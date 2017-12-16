@@ -1,2 +1,2 @@
-# skcube-graphs-
+# skcube-graphs
 Tools for plotting skcube graphs
